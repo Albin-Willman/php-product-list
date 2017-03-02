@@ -15,7 +15,7 @@ class ProductIndexView {
       $partial = new ProductItemPartial($p);
       $ret .= $partial->render();
     }
-    return '<table>'.$this->renderTableHead().$this->renderTableBody().'</table>';
+    return '<table class="table table-striped">'.$this->renderTableHead().$this->renderTableBody().'</table>';
   }
 
   private function renderTableBody() {
