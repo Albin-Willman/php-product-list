@@ -2,17 +2,17 @@
 require_once('../app/utils/vat_value.php');
 
 class Product {
-  public $id;
-  public $sku;
-  public $name;
-  public $description;
-  public $price = 0;
-  public $vatId;
-  public $cc;
-  public $categories = [];
+  public $Id;
+  public $Sku;
+  public $Name;
+  public $Description;
+  public $Price = 0;
+  public $VatId;
+  public $Cc;
+  public $Categories = [];
 
   public function price_with_vat() {
-    return $this->price * VatValue::Compute($this->VatId);
+    return $this->Price * VatValue::Compute($this->VatId);
   }
 }
 ?>

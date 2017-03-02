@@ -4,8 +4,8 @@ require_once('../app/models/product.php');
 class TestProduct extends UnitTestCase {
   function test_price_with_vat() {
     $product = new Product();
-    $product->price = 2;
-    $product->vatId = 1;
+    $product->Price = 2;
+    $product->VatId = 1;
     $this->assertEqual($product->price_with_vat(), 2.5);
   }
 
