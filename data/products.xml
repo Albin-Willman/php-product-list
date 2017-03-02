@@ -1,0 +1,1634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <product sku="1384" fomat_name="liten_gron_sprayflaska_inkl_spraytopp_50_ml" cc="0" published="1">
+    <name>Liten grön sprayflaska inkl spraytopp 50 ml</name>
+    <description>Nå finnes den nye sprayflasken. Den har fått Forevers nye grønne, skjønne farge og bærer den nye logoen i form av en ørn.</description>
+    <price>
+      <whs>0.77</whs>
+      <ndp>0.77</ndp>
+      <retail>1.3</retail>
+    </price>
+    <vat>
+      <id>1</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="80" fomat_name="">
+        <name>Övrigt profilmaterial</name>
+        <description></description>
+      </category>
+      <category id="109" fomat_name="">
+        <name>Giveaways</name>
+        <description></description>
+      </category>
+      <category id="111" fomat_name="">
+        <name>Displaymaterial</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23020">
+        <filename>1384_GronSprayflaska_Frilagd_1.png</filename>
+        <path>/shop/product/1384/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="14" fomat_name="aloe_bath_gelee" cc="0.073" published="1">
+    <name>Aloe Bath Gelée</name>
+    <description>Mild och behaglig bad- och duschgelé med frisk, grön och lite marin doft. Innehåller bland annat Aloe vera och örtextrakt som lugnar din hud och hjälper den bevara sin fukt. Ren blir du också, förstås.</description>
+    <price>
+      <whs>13.05</whs>
+      <ndp>15.85</ndp>
+      <retail>18.65</retail>
+    </price>
+    <vat>
+      <id>1</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="71" fomat_name="kroppsvard">
+        <name>Kroppsvård</name>
+        <description></description>
+      </category>
+      <category id="118" fomat_name="">
+        <name>Spa</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23024">
+        <filename>014_BathGele_Frilagd_1.png</filename>
+        <path>/shop/product/14/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="199" fomat_name="aloe_sunscreen" cc="0.06" published="1">
+    <name>Aloe Sunscreen</name>
+    <description>Silkeslen sollotion med Aloe vera och vitamin E. Den är skonsam, hudvårdande och fuktighetsbevarande, skyddar mot både UVA- och UVB-strålning. Vattenresistent. SPF 30.
+
+	 </description>
+    <price>
+      <whs>10.68</whs>
+      <ndp>12.97</ndp>
+      <retail>15.26</retail>
+    </price>
+    <vat>
+      <id>1</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="71" fomat_name="kroppsvard">
+        <name>Kroppsvård</name>
+        <description></description>
+      </category>
+      <category id="125" fomat_name="">
+        <name>Hud</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23059">
+        <filename>199_SunScreen_Frilagd_1.png</filename>
+        <path>/shop/product/199/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="205" fomat_name="aloe_msm_gel" cc="0.092" published="1">
+    <name>Aloe MSM Gel</name>
+    <description>Doftfri, djupgående massagegel med lugnande, stärkande och uppfriskande egenskaper. Innehåller bland annat MSM, Aloe vera och olika örter.
+
+	 </description>
+    <price>
+      <whs>16.57</whs>
+      <ndp>20.12</ndp>
+      <retail>23.67</retail>
+    </price>
+    <vat>
+      <id>1</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="71" fomat_name="kroppsvard">
+        <name>Kroppsvård</name>
+        <description></description>
+      </category>
+      <category id="121" fomat_name="">
+        <name>Träning</name>
+        <description></description>
+      </category>
+      <category id="125" fomat_name="">
+        <name>Hud</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23061">
+        <filename>205_AloeMSM_Frilagd_1.png</filename>
+        <path>/shop/product/205/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="22" fomat_name="aloe_lips_12_kpl" cc="0.168" published="1">
+    <name>Aloe Lips 12 kpl</name>
+    <description>Håll leendet i form i alla väder! Kombinationen av Aloe vera, jojobaolja och bivax gör dina läppar mjuka och lena och skyddar dem mot väder och vind. Kan också användas på nagelband och vid klåda av insektsstick, till exempel.
+
+	 </description>
+    <price>
+      <whs>30</whs>
+      <ndp>36.36</ndp>
+      <retail>42.72</retail>
+    </price>
+    <vat>
+      <id>1</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="71" fomat_name="kroppsvard">
+        <name>Kroppsvård</name>
+        <description></description>
+      </category>
+      <category id="125" fomat_name="">
+        <name>Hud</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23068">
+        <filename>022_AloeLips_Frilagd_1.png</filename>
+        <path>/shop/product/22/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="234" fomat_name="forever_marine_mask" cc="0.076" published="1">
+    <name>Forever Marine Mask</name>
+    <description>Forever Marine Mask rengör på djupet, samtidigt som den återställer hudens balans. Det sker med hjälp av naturliga
+havsmineraler från tång och alger samt de återfuktande och hudvårdande egenskaperna hos Aloe vera, honung och gurka.
+Dessutom innehåller den rosmarin, som verkar både renande och stimulerande på huden och naturligt E-vitamin, som är en
+antioxidant. Masken är lättapplicerad och gör att huden känns fräsch och smidig.</description>
+    <price>
+      <whs>11.9</whs>
+      <ndp>14.45</ndp>
+      <retail>17</retail>
+    </price>
+    <vat>
+      <id>1</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="71" fomat_name="kroppsvard">
+        <name>Kroppsvård</name>
+        <description></description>
+      </category>
+      <category id="126" fomat_name="">
+        <name>Ansikte</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23072">
+        <filename>234_MarineMask_Frilagd_1.png</filename>
+        <path>/shop/product/234/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="238" fomat_name="" cc="0.063" published="1">
+    <name>Forever Aloe Scrub</name>
+    <description>Huden blir klar och dess cellförnyelseprocess underlättas. Med sin varsamma peelingverkan hjälper Aloe Scrub också
+mot den uttorkning och andra skador syntetiska rengöringsprodukter kan medföra. Den kan användas över hela kroppen, även i ansiktet.</description>
+    <price>
+      <whs>11.27</whs>
+      <ndp>13.69</ndp>
+      <retail>16.1</retail>
+    </price>
+    <vat>
+      <id>1</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="71" fomat_name="kroppsvard">
+        <name>Kroppsvård</name>
+        <description></description>
+      </category>
+      <category id="125" fomat_name="">
+        <name>Hud</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23074">
+        <filename>238_AloeScrub_Frilagd_1.png</filename>
+        <path>/shop/product/238/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="260" fomat_name="aloe_jojoba_shampoo" cc="0.07" published="1">
+    <name>Aloe Jojoba Shampoo</name>
+    <description>Mjukgörande och hårvårdande schampo med Aloe Vera Gel och jojoba. Passar alla hårtyper. Vänta gärna några minuter innan du sköljer ur för bästa effekt. Drygt schampo som räcker länge.</description>
+    <price>
+      <whs>12.62</whs>
+      <ndp>15.32</ndp>
+      <retail>18.02</retail>
+    </price>
+    <vat>
+      <id>1</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="71" fomat_name="kroppsvard">
+        <name>Kroppsvård</name>
+        <description></description>
+      </category>
+      <category id="127" fomat_name="">
+        <name>Hår</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23078">
+        <filename>260_JojobaSchampoo_Frilagd_1.png</filename>
+        <path>/shop/product/260/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="261" fomat_name="conditioning_rinse" cc="0.07" published="1">
+    <name>Conditioning Rinse</name>
+    <description>Mjukgörande balsam som gör det blöta håret mer lättkammat, är fuktighetsbevarande och motverkar statisk elektricitet. Använd efter Aloe-Jojoba Shampoo, och låt verka 2-3 minuter innan du sköljer ur. Räcker länge.</description>
+    <price>
+      <whs>12.62</whs>
+      <ndp>15.32</ndp>
+      <retail>18.02</retail>
+    </price>
+    <vat>
+      <id>1</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="127" fomat_name="">
+        <name>Hår</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23079">
+        <filename>261_JojobaConditioner_Frilagd_1.png</filename>
+        <path>/shop/product/261/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="28" fomat_name="forever_bright_toothgel" cc="0.031" published="1">
+    <name>Forever Bright Toothgel</name>
+    <description>Aloe vera-baserad tandkräm som rengör effektivt, samtidigt som den vårdar tandkött och slemhinnor och ger en frisk andedräkt som varar länge! Extra bra för känsligt tandkött. Innehåller inte fluor. 
+
+	 </description>
+    <price>
+      <whs>5.5</whs>
+      <ndp>6.67</ndp>
+      <retail>7.85</retail>
+    </price>
+    <vat>
+      <id>1</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="71" fomat_name="kroppsvard">
+        <name>Kroppsvård</name>
+        <description></description>
+      </category>
+      <category id="125" fomat_name="">
+        <name>Hud</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23088">
+        <filename>028_Bright_Frilagd_1.png</filename>
+        <path>/shop/product/28/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="280" fomat_name="aloe_balancing_creme" cc="0.122" published="1">
+    <name>Aloe Balancing Crème</name>
+    <description>Stärkande ansiktskräm som gör din hy mjuk och smidig. Hjälper också huden att behålla sin fuktighetsbalans. Baserad på Aloe vera, och innehåller dessutom vitt te, vitamin E och citronextrakt.</description>
+    <price>
+      <whs>19.52</whs>
+      <ndp>23.72</ndp>
+      <retail>27.91</retail>
+    </price>
+    <vat>
+      <id>1</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="70" fomat_name="hudvard">
+        <name>Hudvård</name>
+        <description></description>
+      </category>
+      <category id="126" fomat_name="">
+        <name>Ansikte</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23089">
+        <filename>280_SonyaBalacingCreme_Frilagd_1.png</filename>
+        <path>/shop/product/280/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="281" fomat_name="aloe_nourishing_serum" cc="0.159" published="1">
+    <name>Aloe Nourishing Serum</name>
+    <description>Silkeslent, fuktighetsbevarande serum som ger huden sin lyster tillbaka. Absorberas snabbt och kladdar inte det minsta. Med bland annat Aloe vera, vitamin E, vitt te och mimosaextrakt.</description>
+    <price>
+      <whs>25.44</whs>
+      <ndp>30.91</ndp>
+      <retail>36.37</retail>
+    </price>
+    <vat>
+      <id>1</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="70" fomat_name="hudvard">
+        <name>Hudvård</name>
+        <description></description>
+      </category>
+      <category id="126" fomat_name="">
+        <name>Ansikte</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23090">
+        <filename>281_SonyaSerum_Frilagd_1.png</filename>
+        <path>/shop/product/281/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="284" fomat_name="avocado_face_body_soap" cc="0.019" published="1">
+    <name>Avocado Face &amp; Body Soap</name>
+    <description>Mild, fuktighetsbevarande tvål med avokadosmör som passar alla hudtyper. Rengör både skonsamt och effektivt och har en oemotståndligt uppfriskande citrusdoft.
+
+	 </description>
+    <price>
+      <whs>3.51</whs>
+      <ndp>4.26</ndp>
+      <retail>5.01</retail>
+    </price>
+    <vat>
+      <id>1</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="71" fomat_name="kroppsvard">
+        <name>Kroppsvård</name>
+        <description></description>
+      </category>
+      <category id="125" fomat_name="">
+        <name>Hud</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23092">
+        <filename>284_AvocadoSoap_Frilagd_1.png</filename>
+        <path>/shop/product/284/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="288" fomat_name="relaxation_massage_lotion" cc="0.072" published="1">
+    <name>Relaxation Massage Lotion</name>
+    <description>Väldoftande massagelotion med bland annat Aloe vera, lavendel och vitt te. Ljuvlig konsistens som vårdar din hud utan att kännas det minsta fet. </description>
+    <price>
+      <whs>13.39</whs>
+      <ndp>16.27</ndp>
+      <retail>19.14</retail>
+    </price>
+    <vat>
+      <id>1</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="71" fomat_name="kroppsvard">
+        <name>Kroppsvård</name>
+        <description></description>
+      </category>
+      <category id="118" fomat_name="">
+        <name>Spa</name>
+        <description></description>
+      </category>
+      <category id="123" fomat_name="">
+        <name>Balans</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23096">
+        <filename>288_Massagelotion_Frilagd_1.png</filename>
+        <path>/shop/product/288/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="311" fomat_name="sonya_deep_moisturizing_cream" cc="0.111" published="1">
+    <name>Sonya Deep Moisturizing Cream</name>
+    <description>Oslagbart återfuktande kräm för hud som vill ha lite extra omvårdnad. Passar utmärkt som nattkräm för alla hudtyper och som dagkräm för torr/normal hy. Med bland annat Aloe vera, oljor från macadamianöt och solrosfrön, samt tallbarksextrakt.</description>
+    <price>
+      <whs>17.3</whs>
+      <ndp>21</ndp>
+      <retail>24.7</retail>
+    </price>
+    <vat>
+      <id>1</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="70" fomat_name="hudvard">
+        <name>Hudvård</name>
+        <description></description>
+      </category>
+      <category id="126" fomat_name="">
+        <name>Ansikte</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23103">
+        <filename>311_SonyaDeepMoist_Frilagd_1.png</filename>
+        <path>/shop/product/311/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="319" fomat_name="aloe_sunscreen_spray" cc="0.07" published="1">
+    <name>Aloe Sunscreen Spray</name>
+    <description>Smidig solskyddsspray för hela familjen med Aloe vera och vitamin E. Extra vattenfast för att du ska kunna ha kul i vattnet utan att vara rädd för att bränna dig. SPF 30.
+
+	 </description>
+    <price>
+      <whs>10.92</whs>
+      <ndp>13.25</ndp>
+      <retail>15.59</retail>
+    </price>
+    <vat>
+      <id>1</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="71" fomat_name="kroppsvard">
+        <name>Kroppsvård</name>
+        <description></description>
+      </category>
+      <category id="125" fomat_name="">
+        <name>Hud</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23104">
+        <filename>319_SunSpray_Frilagd_1.png</filename>
+        <path>/shop/product/319/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="349" fomat_name="sonya_hydrate_shampoo" cc="0.08" published="1">
+    <name>Sonya Hydrate Shampoo</name>
+    <description>Skäm bort ditt hår med Sonya Hydrate Shampoo, en perfekt start på din dagliga hårvård. Vårdande schampo med Aloe vera, panthenol (provitamin B5) och bidrottninggelé (Royal Jelly) som ger ditt hår en härlig lyster och gör det enkelt att styla. Doftar härligt och passar även för färgat hår. </description>
+    <price>
+      <whs>12.48</whs>
+      <ndp>15.16</ndp>
+      <retail>17.84</retail>
+    </price>
+    <vat>
+      <id>1</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="71" fomat_name="kroppsvard">
+        <name>Kroppsvård</name>
+        <description></description>
+      </category>
+      <category id="127" fomat_name="">
+        <name>Hår</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23118">
+        <filename>349_hydrateschampoo_1.png</filename>
+        <path>/shop/product/349/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="38" fomat_name="aloe_hand_face_soap" cc="0.053" published="1">
+    <name>Aloe Hand &amp; Face Soap</name>
+    <description>Hela familjens favorit! Vår Aloe vera-tvål är mild nog att användas dagligen över hela kroppen av både barn och vuxna – även de som har känslig hud. Löddrar härligt och ger din hud en ren, mjuk och silkeslen känsla. Diskret doft.
+
+	 </description>
+    <price>
+      <whs>9.46</whs>
+      <ndp>11.48</ndp>
+      <retail>13.5</retail>
+    </price>
+    <vat>
+      <id>1</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="71" fomat_name="kroppsvard">
+        <name>Kroppsvård</name>
+        <description></description>
+      </category>
+      <category id="125" fomat_name="">
+        <name>Hud</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23131">
+        <filename>038_aloehandfacesoap_frilagd.png</filename>
+        <path>/shop/product/38/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="40" fomat_name="aloe_first" cc="0.079" published="1">
+    <name>Aloe First</name>
+    <description>Skön spray med Aloe vera, propolis och utvalda örter som svalkar och lugnar din hud. Till exempel efter en dag i solen, efter ett insektsstick eller i den torra luften på flygresan. Passar också fint för hår och hårbotten.
+
+	 </description>
+    <price>
+      <whs>14.2</whs>
+      <ndp>17.24</ndp>
+      <retail>20.28</retail>
+    </price>
+    <vat>
+      <id>1</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="71" fomat_name="kroppsvard">
+        <name>Kroppsvård</name>
+        <description></description>
+      </category>
+      <category id="125" fomat_name="">
+        <name>Hud</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23132">
+        <filename>040_AloeFirst_Frilagd_1.png</filename>
+        <path>/shop/product/40/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="462" fomat_name="forever_sun_lips" cc="0.018" published="1">
+    <name>Forever Sun Lips</name>
+    <description>Härligt läppbalsam med doft av mint och solskyddsfaktor 30. Håller dina läppar mjuka och lena i alla väder och ger dessutom en skönt svalkande känsla. Med hudvårdande Aloe vera och mjukgörande jojobaolja.
+
+ 
+
+ </description>
+    <price>
+      <whs>2.8</whs>
+      <ndp>3.4</ndp>
+      <retail>4</retail>
+    </price>
+    <vat>
+      <id>1</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="71" fomat_name="kroppsvard">
+        <name>Kroppsvård</name>
+        <description></description>
+      </category>
+      <category id="125" fomat_name="">
+        <name>Hud</name>
+        <description></description>
+      </category>
+    </categories>
+  </product>
+  <product sku="4675" fomat_name="christmas_giftbag_small_free" cc="0" published="">
+    <name>Christmas giftbag - small FREE</name>
+    <description></description>
+    <price>
+      <whs>0</whs>
+      <ndp>0</ndp>
+      <retail>0</retail>
+    </price>
+    <vat>
+      <id>1</id>
+    </vat>
+    <stock>41813</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="110" fomat_name="">
+        <name>Påsar och Förpackningar</name>
+        <description></description>
+      </category>
+    </categories>
+  </product>
+  <product sku="51" fomat_name="aloe_propolis_creme" cc="0.079" published="1">
+    <name>Aloe Propolis Creme</name>
+    <description>En av våra mest populära produkter, utmärkt för torr hud över hela kroppen. Både mjukgörande och fuktighetsbevarande med riktigt krämig konsistens och härlig honungsdoft.
+
+	 </description>
+    <price>
+      <whs>14.2</whs>
+      <ndp>17.24</ndp>
+      <retail>20.28</retail>
+    </price>
+    <vat>
+      <id>1</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="71" fomat_name="kroppsvard">
+        <name>Kroppsvård</name>
+        <description></description>
+      </category>
+      <category id="125" fomat_name="">
+        <name>Hud</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23270">
+        <filename>051_PropolisCreme_Frilagd_1.png</filename>
+        <path>/shop/product/51/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="5402" fomat_name="produktkatalog_flawless_10_p_no" cc="0" published="">
+    <name>Produktkatalog Flawless 10-p NO</name>
+    <description>Det perfekte supplementet til vår vanlige produktkatalog. Her blir hele flawless by Sonya-sortimentet presentert: produktinformasjon blandet med inspirasjon og praktiske tips om hvordan du anvender produktene på best mulig måte.
+	 </description>
+    <price>
+      <whs>2.5</whs>
+      <ndp>2.5</ndp>
+      <retail>2.5</retail>
+    </price>
+    <vat>
+      <id>1</id>
+    </vat>
+    <stock></stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="75" fomat_name="trycksaker">
+        <name>Trycksaker</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="38404">
+        <filename>5400_5403_flawless_produktkatalog.png</filename>
+        <path>/shop/product/5402/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="6000" fomat_name="forever_gel_original" cc="0.101" published="1">
+    <name>Forever Gel Original</name>
+    <description></description>
+    <price>
+      <whs>18.16</whs>
+      <ndp>22.04</ndp>
+      <retail>25.93</retail>
+    </price>
+    <vat>
+      <id>1</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="69" fomat_name="">
+        <name>Hälsa</name>
+        <description>Detta är en beskriving för kategorin &amp;#39;Hälsa&amp;#39;</description>
+      </category>
+      <category id="117" fomat_name="">
+        <name>Tillskott</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23285">
+        <filename>6000_ForeverGelOriginal_Frilagd_1.png</filename>
+        <path>/shop/product/6000/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="6001" fomat_name="forever_gel_cranberry" cc="0.101" published="1">
+    <name>Forever Gel Cranberry</name>
+    <description></description>
+    <price>
+      <whs>18.16</whs>
+      <ndp>22.04</ndp>
+      <retail>25.93</retail>
+    </price>
+    <vat>
+      <id>1</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="69" fomat_name="">
+        <name>Hälsa</name>
+        <description>Detta är en beskriving för kategorin &amp;#39;Hälsa&amp;#39;</description>
+      </category>
+      <category id="117" fomat_name="">
+        <name>Tillskott</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23286">
+        <filename>6001_forevergelcranberry_frilagd.png</filename>
+        <path>/shop/product/6001/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="6002" fomat_name="forever_gel_peach" cc="0.11" published="1">
+    <name>Forever Gel Peach</name>
+    <description></description>
+    <price>
+      <whs>19.78</whs>
+      <ndp>24.01</ndp>
+      <retail>28.25</retail>
+    </price>
+    <vat>
+      <id>1</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="69" fomat_name="">
+        <name>Hälsa</name>
+        <description>Detta är en beskriving för kategorin &amp;#39;Hälsa&amp;#39;</description>
+      </category>
+      <category id="117" fomat_name="">
+        <name>Tillskott</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23287">
+        <filename>6002_forevergelpeach_frilagd.png</filename>
+        <path>/shop/product/6002/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="6004" fomat_name="forever_garlic" cc="0.073" published="1">
+    <name>Forever Garlic</name>
+    <description></description>
+    <price>
+      <whs>13.05</whs>
+      <ndp>15.85</ndp>
+      <retail>18.65</retail>
+    </price>
+    <vat>
+      <id>1</id>
+    </vat>
+    <stock></stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="69" fomat_name="">
+        <name>Hälsa</name>
+        <description>Detta är en beskriving för kategorin &amp;#39;Hälsa&amp;#39;</description>
+      </category>
+      <category id="117" fomat_name="">
+        <name>Tillskott</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23288">
+        <filename>6004_ForeverGarlic_Frilagd_1.png</filename>
+        <path>/shop/product/6004/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="6005" fomat_name="aloe_lips_1_st" cc="0.014" published="1">
+    <name>Aloe Lips 1 st</name>
+    <description>Håll leendet i form i alla väder! Kombinationen av Aloe vera, jojobaolja och bivax gör dina läppar mjuka och lena och skyddar dem mot väder och vind. Kan också användas på nagelband och vid klåda av insektsstick, till exempel.
+
+	 </description>
+    <price>
+      <whs>2.5</whs>
+      <ndp>3.03</ndp>
+      <retail>3.56</retail>
+    </price>
+    <vat>
+      <id>1</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>1</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="71" fomat_name="kroppsvard">
+        <name>Kroppsvård</name>
+        <description></description>
+      </category>
+      <category id="125" fomat_name="">
+        <name>Hud</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23289">
+        <filename>6005_AloeLips_Frilagd_1.png</filename>
+        <path>/shop/product/6005/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="61" fomat_name="aloe_vera_gelly" cc="0.06" published="1">
+    <name>Aloe Vera Gelly</name>
+    <description>Plantan själv – i en tub. Torr hud, solbränna eller kliande insektsbett? Aloe Vera Gelly absorberas snabbt av huden, den lugnar, vårdar och bevarar fuktigheten. Använd på hud som behöver den.</description>
+    <price>
+      <whs>10.68</whs>
+      <ndp>12.97</ndp>
+      <retail>15.26</retail>
+    </price>
+    <vat>
+      <id>1</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="71" fomat_name="kroppsvard">
+        <name>Kroppsvård</name>
+        <description></description>
+      </category>
+      <category id="125" fomat_name="">
+        <name>Hud</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23290">
+        <filename>061_AloeGelly_Frilagd.png</filename>
+        <path>/shop/product/61/</path>
+      </asset>
+      <asset id="23295">
+        <filename>061_AloeGelly_Frilagd_1.png</filename>
+        <path>/shop/product/61/</path>
+      </asset>
+      <asset id="23291">
+        <filename>Aloe_with_glass.jpg</filename>
+        <path>/shop/product/61/</path>
+      </asset>
+      <asset id="23292">
+        <filename>gelly_Forever_Living_Slices_mindre.jpg</filename>
+        <path>/shop/product/61/</path>
+      </asset>
+      <asset id="23293">
+        <filename>gelly_IMG_0692.jpg</filename>
+        <path>/shop/product/61/</path>
+      </asset>
+      <asset id="23294">
+        <filename>gelly_IMG_7585.jpg</filename>
+        <path>/shop/product/61/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="62" fomat_name="aloe_lotion" cc="0.06" published="1">
+    <name>Aloe Lotion</name>
+    <description>En lite lättare lotion för hela kroppen – inklusive ansiktet. Innehåller bland annat Aloe vera, jojobaolja och vitamin E. Är fuktighetsbevarande, lugnande och gör huden mjuk och len. Diskret doft.
+
+	 </description>
+    <price>
+      <whs>10.68</whs>
+      <ndp>12.97</ndp>
+      <retail>15.26</retail>
+    </price>
+    <vat>
+      <id>1</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="71" fomat_name="kroppsvard">
+        <name>Kroppsvård</name>
+        <description></description>
+      </category>
+      <category id="125" fomat_name="">
+        <name>Hud</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23296">
+        <filename>062_AloeLotion_Frilagd_1.png</filename>
+        <path>/shop/product/62/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="63" fomat_name="aloe_moisturizing_lotion" cc="0.06" published="1">
+    <name>Aloe Moisturizing Lotion</name>
+    <description>Den tillför extra mycket fukt, tack vare aprikoskärneolja, jojobaolja och kamomillextrakt. Lotionen innehåller kollagen och elastin som båda gör huden spänstig, samt vårdande vitamin E. Aloe Moisturizing Lotion har en krämig konsistens, tränger snabbt in i huden och gör den mjuk och silkeslen igen. Den är lika bra för ansikte och händer som för hela kroppen och kan med fördel användas som underlagskräm. Innehåller inte lanolin.</description>
+    <price>
+      <whs>10.68</whs>
+      <ndp>12.97</ndp>
+      <retail>15.26</retail>
+    </price>
+    <vat>
+      <id>1</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="71" fomat_name="kroppsvard">
+        <name>Kroppsvård</name>
+        <description></description>
+      </category>
+      <category id="125" fomat_name="">
+        <name>Hud</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23297">
+        <filename>063_AloeMoistLotion_Frilagd_1.png</filename>
+        <path>/shop/product/63/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="64" fomat_name="aloe_heat_lotion" cc="0.06" published="1">
+    <name>Aloe Heat Lotion</name>
+    <description>Trött i kroppen? Pröva Aloe Heat Lotion. Skön massagelotion med Aloe vera, mentol och eucalyptusolja som dessutom gör huden mjuk och len. Doftar friskt av mint.
+
+	 </description>
+    <price>
+      <whs>10.68</whs>
+      <ndp>12.97</ndp>
+      <retail>15.26</retail>
+    </price>
+    <vat>
+      <id>1</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="71" fomat_name="kroppsvard">
+        <name>Kroppsvård</name>
+        <description></description>
+      </category>
+      <category id="121" fomat_name="">
+        <name>Träning</name>
+        <description></description>
+      </category>
+      <category id="125" fomat_name="">
+        <name>Hud</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23298">
+        <filename>064_AloeHeat_Frilagd_1.png</filename>
+        <path>/shop/product/64/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="64T" fomat_name="aloe_heat_lotion_taiwan_version" cc="0.06" published="1">
+    <name>Aloe Heat Lotion Taiwan Version</name>
+    <description>Liniment med mjukgörande och avslappnande verkan. Innehåller bl a Aloe Vera Gel, mentol samt eukalyptus-, sesam-, jojoba- och aprikoskärneolja. 118 ml.</description>
+    <price>
+      <whs>10.68</whs>
+      <ndp>12.97</ndp>
+      <retail>15.26</retail>
+    </price>
+    <vat>
+      <id>1</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="71" fomat_name="kroppsvard">
+        <name>Kroppsvård</name>
+        <description></description>
+      </category>
+      <category id="121" fomat_name="">
+        <name>Träning</name>
+        <description></description>
+      </category>
+      <category id="125" fomat_name="">
+        <name>Hud</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="35969">
+        <filename>064_AloeHeat_Frilagd.png</filename>
+        <path>/shop/product/64T/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="67" fomat_name="aloe_ever_shield_deodorant" cc="0.029" published="1">
+    <name>Aloe Ever-Shield Deodorant</name>
+    <description>Skonsam och effektiv deo som håller dig fräsch länge. Kladdar inte, och har en mild doft som passar både honom och henne.
+
+	 </description>
+    <price>
+      <whs>5.14</whs>
+      <ndp>6.25</ndp>
+      <retail>7.35</retail>
+    </price>
+    <vat>
+      <id>1</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="71" fomat_name="kroppsvard">
+        <name>Kroppsvård</name>
+        <description></description>
+      </category>
+      <category id="121" fomat_name="">
+        <name>Träning</name>
+        <description></description>
+      </category>
+      <category id="125" fomat_name="">
+        <name>Hud</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23303">
+        <filename>067_Aloe_EvershieldDeo_Frilagd_1.png</filename>
+        <path>/shop/product/67/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="70" fomat_name="gentleman_s_pride" cc="0.06" published="1">
+    <name>Gentleman's Pride</name>
+    <description>Uppfriskande after shave-lotion med bland annat Aloe vera, rosmarin och gurka som varsamt lugnar och återfuktar din hud – och gör den härligt mjuk och len. Fräsch, maskulin doft.
+
+ </description>
+    <price>
+      <whs>10.68</whs>
+      <ndp>12.97</ndp>
+      <retail>15.26</retail>
+    </price>
+    <vat>
+      <id>1</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="71" fomat_name="kroppsvard">
+        <name>Kroppsvård</name>
+        <description></description>
+      </category>
+      <category id="125" fomat_name="">
+        <name>Hud</name>
+        <description></description>
+      </category>
+      <category id="133" fomat_name="">
+        <name>Doft</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23306">
+        <filename>070_Gentlemens_pride_Frilagd_1.png</filename>
+        <path>/shop/product/70/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="15" fomat_name="aloe_vera_gel" cc="0.101" published="1">
+    <name>Aloe Vera Gel</name>
+    <description>Vår absoluta storsäljare har funnits med ända sedan starten, och är idag populärare än någonsin förut. Handplockad, ekologiskt odlad Aloe vera. En god start på dagen!
+
+	 </description>
+    <price>
+      <whs>18.16</whs>
+      <ndp>22.04</ndp>
+      <retail>25.93</retail>
+    </price>
+    <vat>
+      <id>2</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="117" fomat_name="">
+        <name>Tillskott</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23031">
+        <filename>015_AloeGel_Frilagd.png</filename>
+        <path>/shop/product/15/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="206" fomat_name="forever_calcium" cc="0.096" published="1">
+    <name>Forever Calcium</name>
+    <description>Kvinnor, särskilt medelålders och äldre, samt personer som inte äter mjölkprodukter kan behöva ett extra tillskott av kalcium. Forever Calcium tas lätt upp av kroppen och innehåller även bland annat magnesium, zink och vitaminerna C och D. Tabletterna är lätta att svälja och har en god vaniljsmak.</description>
+    <price>
+      <whs>17.36</whs>
+      <ndp>21.08</ndp>
+      <retail>24.8</retail>
+    </price>
+    <vat>
+      <id>2</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="69" fomat_name="">
+        <name>Hälsa</name>
+        <description>Detta är en beskriving för kategorin &amp;#39;Hälsa&amp;#39;</description>
+      </category>
+      <category id="117" fomat_name="">
+        <name>Tillskott</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23062">
+        <filename>206_ForeverCalcium_Frilagd.png</filename>
+        <path>/shop/product/206/</path>
+      </asset>
+      <asset id="23063">
+        <filename>206_ForeverCalcium_Frilagd_1.png</filename>
+        <path>/shop/product/206/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="222" fomat_name="forever_active_probiotic" cc="0.12" published="1">
+    <name>Forever Active Probiotic</name>
+    <description>Mycket populärt kosttillskott som innehåller en kombination av sex olika bakteriestammar. Små kapslar som är lätta att svälja. Behöver inte kylförvaras.</description>
+    <price>
+      <whs>18.55</whs>
+      <ndp>22.53</ndp>
+      <retail>26.5</retail>
+    </price>
+    <vat>
+      <id>2</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="69" fomat_name="">
+        <name>Hälsa</name>
+        <description>Detta är en beskriving för kategorin &amp;#39;Hälsa&amp;#39;</description>
+      </category>
+      <category id="117" fomat_name="">
+        <name>Tillskott</name>
+        <description></description>
+      </category>
+      <category id="123" fomat_name="">
+        <name>Balans</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23069">
+        <filename>222_ProBiotic_Frilagd.png</filename>
+        <path>/shop/product/222/</path>
+      </asset>
+      <asset id="23070">
+        <filename>222_ProBiotic_Frilagd_1.png</filename>
+        <path>/shop/product/222/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="26" fomat_name="forever_bee_pollen" cc="0.061" published="1">
+    <name>Forever Bee Pollen</name>
+    <description>Pollen från vilda blommor som samlats in av flitiga bin för att bli till ett kosttillskott i smidig tablettform för dig. Bra, va?</description>
+    <price>
+      <whs>10.96</whs>
+      <ndp>13.3</ndp>
+      <retail>15.65</retail>
+    </price>
+    <vat>
+      <id>2</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="69" fomat_name="">
+        <name>Hälsa</name>
+        <description>Detta är en beskriving för kategorin &amp;#39;Hälsa&amp;#39;</description>
+      </category>
+      <category id="117" fomat_name="">
+        <name>Tillskott</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23076">
+        <filename>026_BeePollen_Frilagd.png</filename>
+        <path>/shop/product/26/</path>
+      </asset>
+      <asset id="23077">
+        <filename>026_BeePollen_Frilagd_1.png</filename>
+        <path>/shop/product/26/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="262" fomat_name="forever_pomesteen_power" cc="0.106" published="1">
+    <name>Forever Pomesteen power</name>
+    <description>Ge dig själv en C-vitaminkick! Fruktig och god dryck med Aloe vera och en härlig blandning av koncentrerad juice från granatäpple, päron, mangostan, hallon, björnbär och blåbär.
+
+	 </description>
+    <price>
+      <whs>19</whs>
+      <ndp>23.09</ndp>
+      <retail>27.17</retail>
+    </price>
+    <vat>
+      <id>2</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="69" fomat_name="">
+        <name>Hälsa</name>
+        <description>Detta är en beskriving för kategorin &amp;#39;Hälsa&amp;#39;</description>
+      </category>
+      <category id="117" fomat_name="">
+        <name>Tillskott</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23080">
+        <filename>262_pomesteenpower_new_frilagd.png</filename>
+        <path>/shop/product/262/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="320" fomat_name="forever_argi" cc="0.254" published="1">
+    <name>Forever Argi </name>
+    <description>Vi har utvecklat ARGI  speciellt för dig som lever ett aktivt liv. Innehåller aminosyran L-arginin samt en juice- och fruktextraktmix från frukter och bär, bland annat blåbär, hallon, vindruvor och granatäpple. Dessutom får du den dagliga dosen av vitaminerna C, D, B6, B12 och folsyra.
+
+ </description>
+    <price>
+      <whs>39.39</whs>
+      <ndp>47.81</ndp>
+      <retail>56.25</retail>
+    </price>
+    <vat>
+      <id>2</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="69" fomat_name="">
+        <name>Hälsa</name>
+        <description>Detta är en beskriving för kategorin &amp;#39;Hälsa&amp;#39;</description>
+      </category>
+      <category id="117" fomat_name="">
+        <name>Tillskott</name>
+        <description></description>
+      </category>
+      <category id="121" fomat_name="">
+        <name>Träning</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23105">
+        <filename>320_ARGI_Frilagd.png</filename>
+        <path>/shop/product/320/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="324" fomat_name="forever_ultra_vanilla" cc="0.127" published="">
+    <name>Forever Ultra Vanilla</name>
+    <description>God shake med högvärdigt sojaprotein, viktiga vitaminer och mineraler. Maximalt med näring och minimalt med kalorier gör att den passar lika bra som måltidsersättning vid viktkontroll som till mellanmål, proteintillskott efter träningen eller när du helt enkelt är sugen på något gott. Blandas med lättmjölk (eller vatten). Välj mellan två goda, naturliga smaker: vanilj eller choklad.
+
+ 
+
+Forever Ultra kan ersätta upp till två måltider per dag, fungerar utmärkt som frukost, lunch, middag och/eller kvällsmål. Man kan också använda Ultra som mellanmål. En portion Forever Ultra innehåller endast ca 200 kcal, men det höga proteininnehållet gör att den ger en bra mättnadskänsla. Tack vare proteininnehållet orkar du träna samtidigt som du ersätter måltider med Ultra, och proteinet gör det dessutom lättare för dig att bibehålla din muskelmassa.</description>
+    <price>
+      <whs>19.76</whs>
+      <ndp>24.01</ndp>
+      <retail>28.25</retail>
+    </price>
+    <vat>
+      <id>2</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="69" fomat_name="">
+        <name>Hälsa</name>
+        <description>Detta är en beskriving för kategorin &amp;#39;Hälsa&amp;#39;</description>
+      </category>
+      <category id="122" fomat_name="">
+        <name>Form</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23106">
+        <filename>324_ultraVanilj_Frilagd.png</filename>
+        <path>/shop/product/324/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="34" fomat_name="aloe_berry_nectar" cc="0.101" published="1">
+    <name>Aloe Berry Nectar</name>
+    <description>Samma fina produkt som originalet, Forever Aloe Vera Gel: handplockad och ekologiskt odlad Aloe vera, men här med god smak av tranbär och äpple som passar hela familjen.
+
+	 </description>
+    <price>
+      <whs>18.16</whs>
+      <ndp>22.04</ndp>
+      <retail>25.93</retail>
+    </price>
+    <vat>
+      <id>2</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="69" fomat_name="">
+        <name>Hälsa</name>
+        <description>Detta är en beskriving för kategorin &amp;#39;Hälsa&amp;#39;</description>
+      </category>
+      <category id="117" fomat_name="">
+        <name>Tillskott</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23111">
+        <filename>034_BerryNectar_Frilagd.png</filename>
+        <path>/shop/product/34/</path>
+      </asset>
+      <asset id="23112">
+        <filename>034_BerryNectar_Frilagd_1.png</filename>
+        <path>/shop/product/34/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="376" fomat_name="forever_arctic_sea" cc="0.127" published="1">
+    <name>Forever Arctic Sea</name>
+    <description>Kosttillskott med ett omega-3-innehåll speciellt anpassat för att efterlikna en kost rik på fisk och skaldjur. Innehåller en väl avvägd kombination av omega-3-fettsyrorna DHA och EPA och har en frisk smak av citron och lime.
+
+	 </description>
+    <price>
+      <whs>19.69</whs>
+      <ndp>23.91</ndp>
+      <retail>28.13</retail>
+    </price>
+    <vat>
+      <id>2</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="69" fomat_name="">
+        <name>Hälsa</name>
+        <description>Detta är en beskriving för kategorin &amp;#39;Hälsa&amp;#39;</description>
+      </category>
+      <category id="117" fomat_name="">
+        <name>Tillskott</name>
+        <description></description>
+      </category>
+      <category id="123" fomat_name="">
+        <name>Balans</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23129">
+        <filename>376_foreverarcticsea_frilagd.png</filename>
+        <path>/shop/product/376/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="39" fomat_name="arctic_sea_omega_3" cc="0.122" published="">
+    <name>Arctic Sea Omega 3</name>
+    <description>Forever Arctic-Sea ger dig detta tillskott, i mjuka gelatinkapslar som är lätta att svälja. Omega-3 är en essentiell fettsyra som finns i feta fiskar som lax, makrill, sardin och sill. Omega-9 är en omättad fettsyra, som finns i vegetabiliska produkter som olivolja. Genom att Forever kombinerar dessa två får du en balanserad produkt, med oljor från både fisk och växtriket. Ett dagligt intag av 3 kapslar ger ett tillskott på 2250 mg fiskolja, som innehåller omega-3- fettsyror, bl a EPA- och DHA. Ett intag av 3 kapslar dagligen i en vecka motsvarar i omega- 3-fettsyror ett intag av ca. 250 g sill eller lax.</description>
+    <price>
+      <whs>21.96</whs>
+      <ndp>26.66</ndp>
+      <retail>31.36</retail>
+    </price>
+    <vat>
+      <id>2</id>
+    </vat>
+    <stock></stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+  </product>
+  <product sku="464" fomat_name="forever_fiber" cc="0.09" published="1">
+    <name>Forever Fiber</name>
+    <description>Får du i dig tillräckligt med fibrer? Forever Fiber™ kan hjälpa dig med det. En portion ger dig nämligen hela 5 gram kostfibrer – men minimalt med kolhydrater och kalorier.
+
+ 
+
+ </description>
+    <price>
+      <whs>14</whs>
+      <ndp>17</ndp>
+      <retail>20</retail>
+    </price>
+    <vat>
+      <id>2</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="69" fomat_name="">
+        <name>Hälsa</name>
+        <description>Detta är en beskriving för kategorin &amp;#39;Hälsa&amp;#39;</description>
+      </category>
+      <category id="117" fomat_name="">
+        <name>Tillskott</name>
+        <description></description>
+      </category>
+      <category id="122" fomat_name="">
+        <name>Form</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23262">
+        <filename>0464_AloeHeatTaiwan_Frilagd_1.png</filename>
+        <path>/shop/product/464/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="68" fomat_name="fields_of_greens" cc="0.048" published="1">
+    <name>Fields of Greens</name>
+    <description>Grönare än så här blir det inte. I Forever Fields of Greens hittar du nämligen både korngräs, alfalfa och vetegräs i kombination med honung och kajennpeppar.</description>
+    <price>
+      <whs>8.67</whs>
+      <ndp>10.51</ndp>
+      <retail>12.37</retail>
+    </price>
+    <vat>
+      <id>2</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="69" fomat_name="">
+        <name>Hälsa</name>
+        <description>Detta är en beskriving för kategorin &amp;#39;Hälsa&amp;#39;</description>
+      </category>
+      <category id="117" fomat_name="">
+        <name>Tillskott</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23304">
+        <filename>068_Fields_of_green_Frilagd_1.png</filename>
+        <path>/shop/product/68/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="77" fomat_name="aloe_bits_n_peaches" cc="0.11" published="1">
+    <name>Aloe Bits´n Peaches</name>
+    <description>En fruktig smaksensation! Aloe Bits n’ Peaches är precis vad den heter: en Aloe vera-dryck med somrig smak av solmogna persikor och små bitar av Aloe vera – ekologiskt odlad, så klart.</description>
+    <price>
+      <whs>19.78</whs>
+      <ndp>24.01</ndp>
+      <retail>28.25</retail>
+    </price>
+    <vat>
+      <id>2</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="69" fomat_name="">
+        <name>Hälsa</name>
+        <description>Detta är en beskriving för kategorin &amp;#39;Hälsa&amp;#39;</description>
+      </category>
+      <category id="117" fomat_name="">
+        <name>Tillskott</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23309">
+        <filename>077_BitsnPeaches_Frilagd.png</filename>
+        <path>/shop/product/77/</path>
+      </asset>
+      <asset id="23310">
+        <filename>077_BitsnPeaches_Frilagd_1.png</filename>
+        <path>/shop/product/77/</path>
+      </asset>
+    </assets>
+  </product>
+</list>
