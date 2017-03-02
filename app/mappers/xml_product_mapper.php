@@ -12,7 +12,7 @@ class XMLProductMapper {
     $product->Sku = intval(self::find_attribute($product_xml, 'sku'));
     $product->Cc = intval(self::find_attribute($product_xml, 'cc'));
 
-    $product->Cc = self;:find_categories($product_xml);
+    $product->Categories = self::find_categories($product_xml);
     if(!$product->valid()) {
       return NULL;
     }

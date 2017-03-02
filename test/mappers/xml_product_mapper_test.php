@@ -1,4 +1,3 @@
-
 <?php
 require_once('../app/mappers/xml_product_mapper.php');
 
@@ -16,6 +15,7 @@ class TestXMLProductMapper extends UnitTestCase {
 
     $this->assertEqual(1384, $product->Sku);
     $this->assertEqual(0, $product->Cc);
+    $this->assertEqual([], $product->Categories);
   }
 }
 ?>
