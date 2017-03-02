@@ -1,0 +1,21 @@
+.description-cell .full {
+  display: none;
+}
+.table>tbody>tr>td.description-cell {
+  padding-right: 100px;
+  position: relative;
+}
+
+.description-cell button {
+  position: absolute;
+  right: 10px;
+  top: calc(50% - 8px);
+}
+
+.description-cell.show-all .full {
+  display: inline;
+}
+
+.description-cell.show-all .short {
+  display: none;
+}

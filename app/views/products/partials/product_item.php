@@ -25,7 +25,8 @@ class ProductItemPartial {
 
   private function description_cell() {
     $short = substr($this->product->Description, 0, 100);
-    return sprintf("<span class=\"short\">%s</span><span class=\"full\">%s</span>", $short, $this->product->Description);
+    return sprintf("<span class=\"short\">%s...</span><span class=\"full\">%s</span>
+      <button class=\"btn btn-xs btn-primary\"><span class=\"short\">Read more</span><span class=\"full\">Read less</span></button>", $short, $this->product->Description);
   }
 
 }
