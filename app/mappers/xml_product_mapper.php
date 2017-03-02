@@ -3,7 +3,6 @@ require_once('../app/models/product.php');
 class XMLProductMapper {
 
   public static function get_product($product_xml) {
-    $attributes = $product_xml->attributes();
     $product = new Product();
     $product->Name = self::find_child($product_xml, 'name');
     $product->Description = self::find_child($product_xml, 'description');
