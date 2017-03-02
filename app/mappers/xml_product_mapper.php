@@ -11,7 +11,7 @@ class XMLProductMapper {
     $product->VatId = intval(self::find_child($product_xml, 'vat/id'));
 
     $product->Sku = intval(self::find_attribute($product_xml, 'sku'));
-    $product->Cc = intval(self::find_attribute($product_xml, 'cc'));
+    $product->Cc = floatval(self::find_attribute($product_xml, 'cc'));
 
     $product->Categories = self::find_categories($product_xml);
     if(!$product->valid()) {
