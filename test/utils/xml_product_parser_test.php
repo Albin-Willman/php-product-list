@@ -11,6 +11,8 @@ class TestXMLProductParser extends UnitTestCase {
     foreach($products as $p) {
       $this->assertTrue(is_a($p, 'Product'));
     }
+    $this->assertEqual($products[0]->Name, 'Liten grön sprayflaska inkl spraytopp 50 ml');
+    $this->assertEqual($products[1]->Name, 'Aloe Bath Gelée');
   }
 }
 ?>
