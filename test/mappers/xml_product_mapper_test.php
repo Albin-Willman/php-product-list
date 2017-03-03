@@ -15,7 +15,7 @@ class TestXMLProductMapper extends UnitTestCase {
 
     $this->assertEqual(1384, $product->Sku);
     $this->assertEqual(0, $product->Cc);
-    $this->assertEqual([], $product->Categories);
+    $this->assertEqual(3, count($product->Categories));
   }
 }
 ?>

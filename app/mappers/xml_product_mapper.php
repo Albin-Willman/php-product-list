@@ -1,5 +1,6 @@
 <?php
 require_once('../app/models/product.php');
+require_once('../app/mappers/xml_category_mapper.php');
 class XMLProductMapper {
 
   public static function get_product($product_xml) {
@@ -20,7 +21,17 @@ class XMLProductMapper {
   }
 
   private static function find_categories($product_xml) {
-    return []; // TODO: implement this mapping
+    try {
+      $ret = [];
+      $categories_xml = $product_xml->xpath('categories')[0];
+
+      foreach($categories_xml->children() as $category_xml) {
+        $ret[] = XMLCategoryMapper::get_category($category_xml);
+      }
+      return $ret;
+    } catch(Exception $e) {
+      return [];
+    }
   }
 
   private static function find_attribute($product_xml, $attr) {
