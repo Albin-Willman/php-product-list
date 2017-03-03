@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+  <product sku="1384" fomat_name="liten_gron_sprayflaska_inkl_spraytopp_50_ml" cc="0" published="1">
+    <name>Liten grön sprayflaska inkl spraytopp 50 ml</name>
+    <description>Nå finnes den nye sprayflasken. Den har fått Forevers nye grønne, skjønne farge og bærer den nye logoen i form av en ørn.</description>
+    <price>
+      <whs>0.77</whs>
+      <ndp>0.77</ndp>
+      <retail>1.3</retail>
+    </price>
+    <vat>
+      <id>1</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="80" fomat_name="">
+        <name>Övrigt profilmaterial</name>
+        <description></description>
+      </category>
+      <category id="109" fomat_name="">
+        <name>Giveaways</name>
+        <description></description>
+      </category>
+      <category id="111" fomat_name="">
+        <name>Displaymaterial</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23020">
+        <filename>1384_GronSprayflaska_Frilagd_1.png</filename>
+        <path>/shop/product/1384/</path>
+      </asset>
+    </assets>
+  </product>
+  <product sku="14" fomat_name="aloe_bath_gelee" cc="0.073" published="1">
+    <name>Aloe Bath Gelée</name>
+    <description>Mild och behaglig bad- och duschgelé med frisk, grön och lite marin doft. Innehåller bland annat Aloe vera och örtextrakt som lugnar din hud och hjälper den bevara sin fukt. Ren blir du också, förstås.</description>
+    <price>
+      <whs>13.05</whs>
+      <ndp>15.85</ndp>
+      <retail>18.65</retail>
+    </price>
+    <vat>
+      <id>1</id>
+    </vat>
+    <stock>2147483647</stock>
+    <weight>0</weight>
+    <volume>0</volume>
+    <manufacturer>POSTNORD</manufacturer>
+    <categories>
+      <category id="71" fomat_name="kroppsvard">
+        <name>Kroppsvård</name>
+        <description></description>
+      </category>
+      <category id="118" fomat_name="">
+        <name>Spa</name>
+        <description></description>
+      </category>
+    </categories>
+    <assets>
+      <asset id="23024">
+        <filename>014_BathGele_Frilagd_1.png</filename>
+        <path>/shop/product/14/</path>
+      </asset>
+    </assets>
+</list>

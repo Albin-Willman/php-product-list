@@ -14,5 +14,14 @@ class TestXMLProductParser extends UnitTestCase {
     $this->assertEqual($products[0]->Name, 'Liten grön sprayflaska inkl spraytopp 50 ml');
     $this->assertEqual($products[1]->Name, 'Aloe Bath Gelée');
   }
+
+  function testParseBrokenXML() {
+    try {
+      $parser = new XMLProductParser('../data/test_data_broken.xml');
+      $this->AssertTrue(false);
+    } catch (Exception $e) {
+      $this->AssertTrue(true);
+    }
+  }
 }
 ?>

@@ -24,11 +24,19 @@ class XMLProductMapper {
   }
 
   private static function find_attribute($product_xml, $attr) {
-    return $product_xml->attributes()[$attr]->__toString();
+    try {
+      return $product_xml->attributes()[$attr]->__toString();
+    } catch(Exception $e) {
+      return NULL;
+    }
   }
 
   private static function find_child($product_xml, $path) {
-    return $product_xml->xpath($path)[0]->__toString();
+    try {
+      return $product_xml->xpath($path)[0]->__toString();
+    } catch(Exception $e) {
+      return NULL;
+    }
   }
 }
 ?>
