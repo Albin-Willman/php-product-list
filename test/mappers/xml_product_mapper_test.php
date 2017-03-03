@@ -5,7 +5,7 @@ class TestXMLProductMapper extends UnitTestCase {
   function testBasic() {
     $xml = simplexml_load_file('../data/test_data.xml');
     $productXML = $xml->children()[0];
-    $product = XMLProductMapper::get_product($productXML);
+    $product = XMLProductMapper::getObject($productXML);
 
     $this->assertEqual('Liten grön sprayflaska inkl spraytopp 50 ml', $product->Name);
     $this->assertEqual(0.77, $product->Price);

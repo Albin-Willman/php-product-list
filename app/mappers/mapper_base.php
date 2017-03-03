@@ -1,8 +1,8 @@
 <?php
 
-class MapperBase {
+abstract class MapperBase {
 
-  // abstract public function getObject();
+  abstract static public function getObject($xml);
 
   protected static function find_attribute($xml, $attr) {
     try {

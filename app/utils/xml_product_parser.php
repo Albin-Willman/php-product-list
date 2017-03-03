@@ -15,7 +15,7 @@ class XMLProductParser {
   public function product_list() {
     $res = [];
     foreach($this->xml->children() as $product_xml) {
-      $res[] = XMLProductMapper::get_product($product_xml);;
+      $res[] = XMLProductMapper::getObject($product_xml);;
     }
     return $res;
   }

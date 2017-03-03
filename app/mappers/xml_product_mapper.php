@@ -4,7 +4,7 @@ require_once('../app/mappers/xml_category_mapper.php');
 require_once('../app/mappers/mapper_base.php');
 class XMLProductMapper extends MapperBase {
 
-  public static function get_product($product_xml) {
+  public static function getObject($product_xml) {
     $product = new Product();
     $product->Name = self::find_child($product_xml, 'name');
     $product->Description = self::find_child($product_xml, 'description');
@@ -30,7 +30,7 @@ class XMLProductMapper extends MapperBase {
       }
 
       foreach($categories_xml->children() as $category_xml) {
-        $ret[] = XMLCategoryMapper::get_category($category_xml);
+        $ret[] = XMLCategoryMapper::getObject($category_xml);
       }
       return $ret;
     } catch(Exception $e) {
