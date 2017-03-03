@@ -19,8 +19,11 @@ class ProductItemPartial {
   }
 
   private function categories() {
-    // TODO: implement this function
-    return 'Cats';
+    $category_names = [];
+    foreach($this->product->Categories as $category) {
+      $category_names[] = $category->Name;
+    }
+    return implode(', ', $category_names);
   }
 
   private function description_cell() {
