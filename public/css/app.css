@@ -19,3 +19,7 @@
 .description-cell.show-all .short {
   display: none;
 }
+
+.sortable-column {
+  cursor: pointer;
+}

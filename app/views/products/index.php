@@ -31,11 +31,11 @@ class ProductIndexView {
   private function renderTableHead() {
     return '<thead>
             <tr>
-              <th>Sku</th>
-              <th>Name</th>
+              <th class="sortable-column" data-sortby="sku">Sku</th>
+              <th class="sortable-column" data-sortby="name">Name</th>
               <th>Description</th>
-              <th>Price (whs)</th>
-              <th>Price (inc VAT)</th>
+              <th class="sortable-column" data-sortby="price">Price (whs)</th>
+              <th class="sortable-column" data-sortby="priceWithVat">Price (inc VAT)</th>
               <th>CC</th>
               <th>Categories</th>
             <tr/>

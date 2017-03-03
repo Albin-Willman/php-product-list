@@ -10,10 +10,8 @@ class ProductsController {
     $parser = new XMLProductParser(DATA_PATH);
     $products = $parser->productList();
 
-    $sorter = new ProductSorter('sku');
+    $sorter = new ProductSorter($_GET['sortby']);
     $sorted = $sorter->sort($products);
-
-    // TODO: Sort products;
 
     return new ProductIndexView($sorted);
   }

@@ -15,7 +15,7 @@ class ProductSorter {
       case 'name': return strcmp($a->Name, $b->Name);
       case 'sku': return $a->Sku - $b->Sku;
       case 'price': return $a->Price - $b->Price;
-      case 'priceWithVat': return $a->priceWithVat - $b->priceWithVat;
+      case 'priceWithVat': return $a->priceWithVat() - $b->priceWithVat();
 
       default: return $a->Sku - $b->Sku;
     }
