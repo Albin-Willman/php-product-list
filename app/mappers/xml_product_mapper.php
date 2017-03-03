@@ -6,22 +6,22 @@ class XMLProductMapper extends MapperBase {
 
   public static function getObject($product_xml) {
     $product = new Product();
-    $product->Name = self::find_child($product_xml, 'name');
-    $product->Description = self::find_child($product_xml, 'description');
-    $product->Price = floatval(self::find_child($product_xml, 'price/whs'));
-    $product->VatId = intval(self::find_child($product_xml, 'vat/id'));
+    $product->Name = self::findChild($product_xml, 'name');
+    $product->Description = self::findChild($product_xml, 'description');
+    $product->Price = floatval(self::findChild($product_xml, 'price/whs'));
+    $product->VatId = intval(self::findChild($product_xml, 'vat/id'));
 
-    $product->Sku = intval(self::find_attribute($product_xml, 'sku'));
-    $product->Cc = floatval(self::find_attribute($product_xml, 'cc'));
+    $product->Sku = intval(self::findAttribute($product_xml, 'sku'));
+    $product->Cc = floatval(self::findAttribute($product_xml, 'cc'));
 
-    $product->Categories = self::find_categories($product_xml);
+    $product->Categories = self::findCategories($product_xml);
     if(!$product->valid()) {
       return NULL;
     }
     return $product;
   }
 
-  private static function find_categories($product_xml) {
+  private static function findCategories($product_xml) {
     try {
       $ret = [];
       $categories_xml = $product_xml->xpath('categories')[0];
@@ -30,7 +30,9 @@ class XMLProductMapper extends MapperBase {
       }
 
       foreach($categories_xml->children() as $category_xml) {
-        $ret[] = XMLCategoryMapper::getObject($category_xml);
+        if($category_xml->getName() == 'category'){
+          $ret[] = XMLCategoryMapper::getObject($category_xml);;
+        }
       }
       return $ret;
     } catch(Exception $e) {

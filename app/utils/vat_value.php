@@ -1,6 +1,6 @@
 <?php
 class VatValue {
-  public static function Compute($id) {
+  public static function compute($id) {
     switch ($id) {
       case 1: return 1.25;
       case 2: return 1.12;

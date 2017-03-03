@@ -5,8 +5,8 @@ class XMLCategoryMapper extends MapperBase {
 
   public static function getObject($category_xml) {
     $category = new Category();
-    $category->Name = self::find_child($category_xml, 'name');
-    $category->Id = intval(self::find_attribute($category_xml, 'id'));
+    $category->Name = self::findChild($category_xml, 'name');
+    $category->Id = intval(self::findAttribute($category_xml, 'id'));
 
     if(!$category->valid()) {
       return NULL;

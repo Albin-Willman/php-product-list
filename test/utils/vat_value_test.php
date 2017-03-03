@@ -4,7 +4,7 @@ require_once('../app/utils/vat_value.php');
 
 class TestVatValue extends UnitTestCase {
   function testComputeBasic() {
-    $this->assertEqual(VatValue::Compute(1), 1.25);
+    $this->assertEqual(VatValue::compute(1), 1.25);
   }
 
   function testComputePossibilities() {
@@ -20,7 +20,7 @@ class TestVatValue extends UnitTestCase {
     ];
 
     foreach($cases as $case) {
-        $this->assertEqual(VatValue::Compute($case[0]), $case[1]);
+        $this->assertEqual(VatValue::compute($case[0]), $case[1]);
     }
   }
 }

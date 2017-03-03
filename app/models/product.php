@@ -15,8 +15,8 @@ class Product {
     return true;
   }
 
-  public function price_with_vat() {
-    return $this->Price * VatValue::Compute($this->VatId);
+  public function priceWithVat() {
+    return $this->Price * VatValue::compute($this->VatId);
   }
 }
 ?>

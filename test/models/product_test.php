@@ -2,11 +2,11 @@
 require_once('../app/models/product.php');
 
 class TestProduct extends UnitTestCase {
-  function test_price_with_vat() {
+  function test_priceWithVat() {
     $product = new Product();
     $product->Price = 2;
     $product->VatId = 1;
-    $this->assertEqual($product->price_with_vat(), 2.5);
+    $this->assertEqual($product->priceWithVat(), 2.5);
   }
 
   function test_initial_price() {

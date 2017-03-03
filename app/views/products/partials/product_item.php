@@ -10,9 +10,9 @@ class ProductItemPartial {
     return '<tr>' .
       '<td>' . $this->product->Sku . '</td>' .
       '<td>' . $this->product->Name . '</td>' .
-      '<td class="description-cell">' . $this->description_cell() . '</td>' .
+      '<td class="description-cell">' . $this->descriptionCell() . '</td>' .
       '<td>' . $this->product->Price . '</td>' .
-      '<td>' . $this->product->price_with_vat() . '</td>' .
+      '<td>' . $this->product->priceWithVat() . '</td>' .
       '<td>' . $this->product->Cc . '</td>' .
       '<td>' . $this->categories() . '</td>' .
       '</tr>';
@@ -26,7 +26,7 @@ class ProductItemPartial {
     return implode(', ', $category_names);
   }
 
-  private function description_cell() {
+  private function descriptionCell() {
     $short = substr($this->product->Description, 0, 100);
     return sprintf("<span class=\"short\">%s...</span><span class=\"full\">%s</span>
       <button class=\"btn btn-xs btn-primary\"><span class=\"short\">Read more</span><span class=\"full\">Read less</span></button>", $short, $this->product->Description);

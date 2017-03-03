@@ -6,7 +6,7 @@ define('DATA_PATH', '../data/products.xml');
 class ProductsController {
   public function index() {
     $parser = new XMLProductParser(DATA_PATH);
-    $products = $parser->product_list();
+    $products = $parser->productList();
 
     // TODO: Sort products;
 

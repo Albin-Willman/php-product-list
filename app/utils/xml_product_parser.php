@@ -12,10 +12,12 @@ class XMLProductParser {
     }
   }
 
-  public function product_list() {
+  public function productList() {
     $res = [];
     foreach($this->xml->children() as $product_xml) {
-      $res[] = XMLProductMapper::getObject($product_xml);;
+      if($product_xml->getName() == 'product'){
+        $res[] = XMLProductMapper::getObject($product_xml);;
+      }
     }
     return $res;
   }

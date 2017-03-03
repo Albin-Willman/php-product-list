@@ -4,7 +4,7 @@ abstract class MapperBase {
 
   abstract static public function getObject($xml);
 
-  protected static function find_attribute($xml, $attr) {
+  protected static function findAttribute($xml, $attr) {
     try {
       return $xml->attributes()[$attr]->__toString();
     } catch(Exception $e) {
@@ -12,7 +12,7 @@ abstract class MapperBase {
     }
   }
 
-  protected static function find_child($xml, $path) {
+  protected static function findChild($xml, $path) {
     try {
       return $xml->xpath($path)[0]->__toString();
     } catch(Exception $e) {
