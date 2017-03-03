@@ -13,31 +13,11 @@ class XMLProductMapper extends MapperBase {
 
     $product->Sku = intval(self::findAttribute($product_xml, 'sku'));
     $product->Cc = floatval(self::findAttribute($product_xml, 'cc'));
-
-    $product->Categories = self::findCategories($product_xml);
+    $product->Categories = self::mapChildModels($product_xml, 'categories', XMLCategoryMapper, 'category');
     if(!$product->valid()) {
       return NULL;
     }
     return $product;
-  }
-
-  private static function findCategories($product_xml) {
-    try {
-      $ret = [];
-      $categories_xml = $product_xml->xpath('categories')[0];
-      if(!$categories_xml) {
-        return [];
-      }
-
-      foreach($categories_xml->children() as $category_xml) {
-        if($category_xml->getName() == 'category'){
-          $ret[] = XMLCategoryMapper::getObject($category_xml);;
-        }
-      }
-      return $ret;
-    } catch(Exception $e) {
-      return [];
-    }
   }
 }
 ?>
