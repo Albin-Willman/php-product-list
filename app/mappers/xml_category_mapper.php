@@ -1,6 +1,7 @@
 <?php
 require_once('../app/models/category.php');
-class XMLCategoryMapper {
+require_once('../app/mappers/mapper_base.php');
+class XMLCategoryMapper extends MapperBase {
 
   public static function get_category($category_xml) {
     $category = new Category();
@@ -11,22 +12,6 @@ class XMLCategoryMapper {
       return NULL;
     }
     return $category;
-  }
-
-  private static function find_attribute($category_xml, $attr) {
-    try {
-      return $category_xml->attributes()[$attr]->__toString();
-    } catch(Exception $e) {
-      return NULL;
-    }
-  }
-
-  private static function find_child($category_xml, $path) {
-    try {
-      return $category_xml->xpath($path)[0]->__toString();
-    } catch(Exception $e) {
-      return NULL;
-    }
   }
 }
 ?>
