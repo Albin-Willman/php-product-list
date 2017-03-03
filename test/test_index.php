@@ -9,5 +9,6 @@ require_once('../test/utils/xml_product_parser_test.php');
 
 // Mappers
 require_once('../test/mappers/xml_product_mapper_test.php');
+require_once('../test/mappers/xml_category_mapper_test.php');
 
 ?>
