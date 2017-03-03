@@ -11,8 +11,7 @@ class Product {
   public $Categories = [];
 
   public function valid() {
-    // Here I can implement validation
-    return true;
+    return !!$this->Name;
   }
 
   public function priceWithVat() {

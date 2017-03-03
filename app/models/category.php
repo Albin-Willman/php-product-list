@@ -4,8 +4,7 @@ class Category {
   public $Name;
 
   public function valid() {
-    // Here I can implement validation
-    return true;
+    return !!$this->Name;
   }
 }
 ?>
